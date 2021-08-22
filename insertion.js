@@ -14,3 +14,4 @@ function insertionSort(arr) {
 module.exports = insertionSort;
 
 [3,1,5,2,7,4]
+[ 3, 3, 5, 2, 7, 4]
